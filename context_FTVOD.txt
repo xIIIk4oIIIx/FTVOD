@@ -3,7 +3,7 @@
 // --- Configuration used: watcher.config.json ---
 {
   "watchFolder": "./",
-  "outputFile": "context_FilmanTV.txt",
+    "outputFile": "context_FTVOD.txt",
   "allowedExtensions": [
     ".js",
     ".jsx",
